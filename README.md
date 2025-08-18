@@ -1,4 +1,4 @@
-## Hola chum, Soy SteveBartmoss
+## Hola choom, Soy SteveBartmoss
 
 ```javascript
   const steve={
