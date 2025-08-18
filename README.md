@@ -2,10 +2,19 @@
 
 ```javascript
   const steve={
-    lenguajes: [Javascript,php,Java,python],
-    frameWorsk: [Nests,Express,Laravel,Vue],
-    librerias: [React, Redux,Pinia,Jest],
-    dataBase: [Mysql,SlqServer,Informix],
+    code: ["Javascript","php","Java","python"],
+    askMeAbout: ["web dev","tecnologia","pc master race", "videojuegos"],
+    technologies: {
+        frontEnd: ["React","Vue","Laravel"],
+        backEnd: ["Nest","Epress","Laravel"],
+        dataBase: ["Mysql", "SqlServer", "Informix"],
+        state: ["Redux","Pinia"],
+        test: ["Jest"],
+    },
+    architecture: ["Single page applications"],
+    funFact: "There are two ways to write error-free programs; only the third one works",
+    currentOccupation: ["Full stack developer for a company"],
+    challenge: "LightClient, NeoFetch"
   }
 ```
 
