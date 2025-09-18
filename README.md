@@ -10,6 +10,7 @@
         dataBase: ["Mysql", "SqlServer", "Informix"],
         state: ["Redux","Pinia"],
         test: ["Jest"],
+        orm: ["sequelize","typeorm"],
     },
     architecture: ["Single page applications"],
     funFact: "There are two ways to write error-free programs; only the third one works",
