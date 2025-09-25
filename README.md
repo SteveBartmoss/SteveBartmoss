@@ -22,6 +22,8 @@
 <img width="35%" alt="Github" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWwxZW9kdTBtNW5jZG1maWZvM2dycXhqdzgwNDlzenFueDk4NHdwZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ENY5vJgJPEfG3Ym14H/giphy.gif" />
 
 I m looking to colllaborate on gnu projects
+
+I m currently learning NestJs
 <!--
 **SteveBartmoss/SteveBartmoss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
