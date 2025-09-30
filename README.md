@@ -26,6 +26,10 @@ I m looking to colllaborate on gnu projects
 I m currently learning NestJs
 
 Im currently working like full stack developer on web aplications
+
+I need some sleep
+You can't go on like this
+
 <!--
 **SteveBartmoss/SteveBartmoss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
