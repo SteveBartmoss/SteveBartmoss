@@ -31,8 +31,6 @@ I need some sleep
 You can't go on like this
 I tried countin' sheep
 But there's one I always miss
-Everyone says, I'm gettin' down too low
-Everyone says, you just gotta let it go
 
 <!--
 **SteveBartmoss/SteveBartmoss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
