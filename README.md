@@ -35,8 +35,7 @@ But there's one I always miss
 Who cares if one more light goes out?
 In the sky of a million stars
 
-close the door
-we dont undesrtad
+i am feeling glad
 <!--
 **SteveBartmoss/SteveBartmoss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
