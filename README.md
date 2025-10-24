@@ -27,23 +27,6 @@ I m currently learning NestJs
 
 Im currently working like full stack developer on web aplications
 
-I need some sleep
-You can't go on like this
-I tried countin' sheep
-But there's one I always miss
-
-Who cares if one more light goes out?
-In the sky of a million stars
-
-i am feeling glad
-i m usseles but not for long
-the future is comming on
-
-i m tired :(
-
-so tired to been so tired
-
-hace tiempo que no veo el cielo, me han dicho wue sigue siendo azul
 <!--
 **SteveBartmoss/SteveBartmoss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
