@@ -42,6 +42,8 @@ the future is comming on
 i m tired :(
 
 so tired to been so tired
+
+hace tiempo que no veo el cielo, me han dicho wue sigue siendo azul
 <!--
 **SteveBartmoss/SteveBartmoss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
