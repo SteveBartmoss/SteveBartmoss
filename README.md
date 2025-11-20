@@ -6,7 +6,7 @@
     askMeAbout: ["web dev","tecnologia","pc master race", "videojuegos"],
     technologies: {
         frontEnd: ["React","Vue","Laravel"],
-        backEnd: ["Nest","Epress","Laravel"],
+        backEnd: ["Nest","Express","Laravel"],
         dataBase: ["Mysql", "SqlServer", "Informix"],
         state: ["Redux","Pinia"],
         test: ["Jest"],
