@@ -25,6 +25,11 @@ const steve = {
 }
 ```
 
+💬 I’m looking to collaborate on GNU projects  
+📚 Currently learning: NestJS  
+💼 Full stack developer working on web applications  
+
+
 <!--
 ## Hola choom, Soy SteveBartmoss
 
