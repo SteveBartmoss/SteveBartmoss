@@ -21,7 +21,7 @@ const steve = {
   architecture: ["Single page applications"],
   funFact: "There are two ways to write error-free programs; only the third one works",
   currentOccupation: ["Full stack developer for a company"],
-  challenge: "LightClient, NeoFetch"
+  challenge: "LightClient, NeoFetch, custom crm"
 }
 ```
 
