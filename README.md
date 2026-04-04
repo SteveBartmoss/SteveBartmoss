@@ -30,7 +30,7 @@ const steve = {
 💬 I’m looking to collaborate on GNU projects  
 📚 Currently learning: NestJS  
 💼 Full stack developer working on web applications  
-🔭 I’m currently working on a applitation for busines or ecommerce
+🔭 I’m currently working on raccoon native REST client
 
 <!--
 **SteveBartmoss/SteveBartmoss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
