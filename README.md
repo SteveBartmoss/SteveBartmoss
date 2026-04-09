@@ -19,6 +19,7 @@ const steve = {
     test: ["Jest"],
     orm: ["sequelize","typeorm"],
     devOps: ["Docker", "PM2"],
+    desktop: ["tauri"],
   },
   architecture: ["Single page applications"],
   funFact: "There are two ways to write error-free programs; only the third one works",
