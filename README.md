@@ -9,7 +9,7 @@
 
 ```javascript
 const steve = {
-  code: ["Javascript", "php", "Java", "python",Rust"],
+  code: ["Javascript", "php", "Java", "python","Rust"],
   askMeAbout: ["web dev", "tecnologia", "pc master race", "videojuegos"],
   technologies: {
     frontEnd: ["React","Vue","Laravel"],
