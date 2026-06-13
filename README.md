@@ -56,7 +56,7 @@ const steve = {
 💼 Full stack developer working on web applications  
 🔭 I’m currently working on raccoon native REST client
 🌱 I’m currently learning rust
-
+💬 Ask me about gnu,linux, video games
 <!--
 **SteveBartmoss/SteveBartmoss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
