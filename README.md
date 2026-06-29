@@ -51,12 +51,6 @@ const steve = {
 }
 ```
 
-💬 I’m looking to collaborate on GNU projects  
-📚 Currently learning: NestJS  
-💼 Full stack developer working on web applications  
-🔭 I’m currently working on raccoon native REST client
-🌱 I’m currently learning rust
-💬 Ask me about gnu,linux, video games
 <!--
 **SteveBartmoss/SteveBartmoss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -70,6 +64,13 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+💬 I’m looking to collaborate on GNU projects  
+📚 Currently learning: NestJS  
+💼 Full stack developer working on web applications  
+🔭 I’m currently working on raccoon native REST client
+🌱 I’m currently learning rust
+💬 Ask me about gnu,linux, video games
 -->
 
 # 📊 GitHub Stats:
