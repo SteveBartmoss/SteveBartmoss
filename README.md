@@ -37,7 +37,7 @@ const steve = {
   technologies: {
     frontEnd: ["React","Vue","Laravel"],
     backEnd: ["Nest","Express","Fastify","Laravel"],
-    dataBase: ["Mysql", "SqlServer", "Informix","Posgresql"],
+    dataBase: ["Mysql", "SqlServer", "Informix","Posgresql", "Mongo"],
     state: ["Redux","Pinia"],
     test: ["Jest"],
     orm: ["sequelize","typeorm"],
