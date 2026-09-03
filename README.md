@@ -47,7 +47,7 @@ const steve = {
   architecture: ["MVC","MONOLIT","Single page applications","Domain Driven Desing","Hexagonal"],
   funFact: "There are two ways to write error-free programs; only the third one works",
   currentOccupation: ["Full stack developer for a company"],
-  challenge: "NeoFetch, custom crm, new forum, raccoon"
+  challenge: "NeoFetch, new forum, raccoon"
 }
 ```
 
