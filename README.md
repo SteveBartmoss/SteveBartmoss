@@ -73,6 +73,8 @@ Here are some ideas to get you started:
 💬 Ask me about gnu,linux, video games, mistborn cosmere
 -->
 
+ Ask me about gnu,linux, video games, mistborn cosmere
+
 # 📊 GitHub Stats:
 
 ![](https://github-readme-stats.shion.dev/api?username=SteveBartmoss&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
