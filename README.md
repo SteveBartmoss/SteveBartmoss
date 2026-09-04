@@ -70,7 +70,7 @@ Here are some ideas to get you started:
 💼 Full stack developer working on web applications  
 🔭 I’m currently working on raccoon native REST client
 🌱 I’m currently learning rust
-💬 Ask me about gnu,linux, video games
+💬 Ask me about gnu,linux, video games, mistborn cosmere
 -->
 
 # 📊 GitHub Stats:
