@@ -33,7 +33,7 @@
 ```javascript
 const steve = {
   code: ["Javascript", "php", "Java", "python","Rust"],
-  askMeAbout: ["web dev", "tecnologia", "pc master race", "videojuegos"],
+  askMeAbout: ["web dev", "tecnologia", "pc master race", "videojuegos", "mistborn", "cosmere"],
   technologies: {
     frontEnd: ["React","Vue","Laravel"],
     backEnd: ["Nest","Express","Fastify","Laravel"],
@@ -72,8 +72,6 @@ Here are some ideas to get you started:
 🌱 I’m currently learning rust
 💬 Ask me about gnu,linux, video games, mistborn cosmere
 -->
-
- Ask me about gnu,linux, video games, mistborn cosmere
 
 # 📊 GitHub Stats:
 
