@@ -35,7 +35,7 @@ const steve = {
   code: ["Javascript", "php", "Java", "python","Rust"],
   askMeAbout: ["web dev", "tecnologia", "pc master race", "videojuegos", "mistborn", "cosmere"],
   technologies: {
-    frontEnd: ["React","Vue","Laravel"],
+    frontEnd: ["React","Vue","Laravel","Angular"],
     backEnd: ["Nest","Express","Fastify","Laravel"],
     dataBase: ["Mysql", "SqlServer", "Informix","Posgresql", "Mongo"],
     state: ["Redux","Pinia"],
