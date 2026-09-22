@@ -40,7 +40,7 @@ const steve = {
     dataBase: ["Mysql", "SqlServer", "Informix","Posgresql", "Mongo"],
     state: ["Redux","Pinia"],
     test: ["Jest"],
-    orm: ["sequelize","typeorm"],
+    orm: ["sequelize","typeorm","prisma"],
     devOps: ["Docker", "PM2"],
     desktop: ["tauri"],
   },
