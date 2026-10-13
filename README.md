@@ -28,6 +28,14 @@
   />
 </p>
 
+<p align="center">
+  <img 
+      src="https://giphy.com/embed/CtVnM96GLP6KJcajgM" width="480" height="480" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/y2k-egirl-digital-girl-CtVnM96GLP6KJcajgM" 
+      width="30%" 
+  />
+  
+</p>
+
 ## Steve.js
 
 ```javascript
