@@ -91,5 +91,3 @@ Here are some ideas to get you started:
 
 ---
 [![](https://komarev.com/ghpvc/?username=SteveBartmoss&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
