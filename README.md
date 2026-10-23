@@ -39,6 +39,7 @@
       width="30%" 
   />
 
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTZjMDliOTUyYjdrMGtzenc1b2tzdTVxZ3pvMWVhdjgycHAwZWh2d3A0ejh2N2d2ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/hV60kKtX93l22O3Wyn/giphy.gif" width="30%" />
   
   
 </p>
